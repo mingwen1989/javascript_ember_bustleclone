@@ -5,7 +5,7 @@ module.exports = function(environment) {
     modulePrefix: 'bustle-clone',
     environment: environment,
     contentSecurityPolicy: { 'connect-src': "'self' https://auth.firebase.com wss://*.firebaseio.com" },
-    firebase: 'https://bustle-clone-f24bc.firebaseio.com',
+    firebase: 'https://bustle-clone-2c8fb.firebaseio.com/',
     baseURL: '/',
     locationType: 'auto',
     EmberENV: {
