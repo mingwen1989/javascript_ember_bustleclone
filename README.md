@@ -14,7 +14,7 @@ You will need the following things properly installed on your computer.
 
 ## Future Improvements
 
-Display routes and components for each individual news item.
+Create admin interface to add/update/remove news items.
 
 ## Installation
 
